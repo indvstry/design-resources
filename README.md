@@ -21,3 +21,17 @@ Design, Prototyping, Handoff, Design Libraries, Versioning Monitoring
 
 A compact overview of a new product design
 process in tabular format
+
+## Accessibility
+
+[Empathy Prompts](https://empathyprompts.net/#quadriplegia)
+
+Prompts to consider when making things for others to use.
+example: Unplug your mouse
+Navigate your computer using the keyboard. Using the trackpad is cheating!
+
+This prompt helps you understand what it’s like to have a motor condition like Parkinson’s disease.
+
+### checklists
+
+[Inclusive Web Design Checklist by Heydon Pickering](https://github.com/Heydon/inclusive-design-checklist)
