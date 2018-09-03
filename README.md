@@ -16,7 +16,11 @@ Principle etc
 format:
 Design, Prototyping, Handoff, Design Libraries, Versioning Monitoring
 
+
+### Checklists
+
 [UX Project Checklist](https://uxchecklist.github.io/)
+[50 Things you probably forgot to design](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
 
 
 A compact overview of a new product design
@@ -32,6 +36,11 @@ Navigate your computer using the keyboard. Using the trackpad is cheating!
 
 This prompt helps you understand what it’s like to have a motor condition like Parkinson’s disease.
 
+
+### online tools
+[WAVE	web accessibility evaluation tool](http://wave.webaim.org/)
+
 ### checklists
 
 [Inclusive Web Design Checklist by Heydon Pickering](https://github.com/Heydon/inclusive-design-checklist)
+[The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
