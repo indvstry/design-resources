@@ -44,3 +44,9 @@ This prompt helps you understand what it’s like to have a motor condition like
 
 [Inclusive Web Design Checklist by Heydon Pickering](https://github.com/Heydon/inclusive-design-checklist)
 [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
+
+
+## Inspiration 
+
+- [awwwards](https://www.awwwards.com/)
+- [pttrns: mobile design patterns](https://pttrns.com)
