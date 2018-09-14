@@ -1,4 +1,5 @@
 A curated list of design resources
+[TOC]
 
 ## Color Tools
 [Material Design Color Tool by Google](https://material.io/tools/color/#!/?view.left=0&view.right=0)
@@ -50,3 +51,17 @@ This prompt helps you understand what it’s like to have a motor condition like
 
 - [awwwards](https://www.awwwards.com/)
 - [pttrns: mobile design patterns](https://pttrns.com)
+- [Collect UI](http://collectui.com/)
+Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
+
+
+## Specification
+
+[Device Metrics](https://material.io/tools/devices/)
+
+
+## Material Design
+
+### Breakpoint System
+
+(https://material.io/design/layout/responsive-layout-grid.html#breakpoints)
